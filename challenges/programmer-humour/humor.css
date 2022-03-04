@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    background-color: rgb(43, 205, 211);
+    padding: 20px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
