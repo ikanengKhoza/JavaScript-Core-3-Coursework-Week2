@@ -13,6 +13,7 @@ buttonEl.addEventListener("click", function(){
     
         let imageEl = document.createElement("img")
         imageEl.src = imgUrl
+        imageEl.style.width = "300px"
     
         let liElement = document.createElement('li')
     
